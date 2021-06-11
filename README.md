@@ -1,5 +1,5 @@
-# Coding Practice
-Personal coding practice library. Might include notes, algorithm practice ... 
+# Notes & Coding Practice
+Personal notes & coding practice library. Might include notes, algorithm practice ... 
 
 
 
